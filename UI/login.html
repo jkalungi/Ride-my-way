@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Log in - Ride-my-way</title>	
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+
+</head>
+<body>
+    <div id="page-wrap">
+        <header class="main_header">
+            <div id="logo"></div>
+            <a href="../../UI/index.html"><h1>Ride-my-way</h1></a>
+            <div>
+                <nav class="main_nav_menu">
+                    <ul>
+                        <li><a href="login.html">Log In</a></li>
+                        <li><a href="signup.html">Sign Up</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <div class ="signup_login_form">
+            <h1 class="form_heading">Log in</h1>
+            <hr>
+            <p>Please log into your account to continue</p>
+            <form onsubmit="return validateForm(event)">
+                <input type="text" name="phone number" placeholder="phone number"> <br>
+                <input type="text" name="password" placeholder="Password"> <br>
+                <input type="submit" value="Log in">
+
+                <br>
+                <a href="#">Forgot your password?</a>
+            </form>
+
+        </div>
+
+    </div> <!-- End of page wrap-->
+	
+</body>
+</html>
