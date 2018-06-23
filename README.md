@@ -1,5 +1,7 @@
 # Ride-my-way
 Ride-my-way App is a carpooling application that provides drivers with the ability to create ride offers and passengers to join available ride offers.
+
+## Access the pages live [here](https://jkalungi.github.io/Ride-my-way/) 
 ## Features currently implemented
 
 Currently, only UI templates have been implemented
