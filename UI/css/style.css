@@ -95,3 +95,14 @@ hr{
 .request_date{font-size: 10px; color: gray; margin-top: 2px;}
 .request a{text-decoration: none; color: #202124;}
 .image_container{position: absolute; right: 10px; top: 10px;}
+.addrequest{
+    background-color: blue;
+    width:160px;
+    height: 180px;
+    border-radius: 5px;
+    color: white;
+    text-align: left;
+    padding-left: 30px;
+    padding-top: 5px;
+    margin-left: 50px;
+}
