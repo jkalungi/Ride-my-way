@@ -13,6 +13,6 @@ Currently, only UI templates have been implemented
 ## Use code locally on your machine
 To run this code on your local machine, first clone the repository
 ```
-$ git clone https://github.com/jkalungi/Ride-my-way.git
+$ git clone https://github.com/jkalungi/Ride-my-way
 ```
 
