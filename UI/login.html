@@ -27,10 +27,10 @@
             <p>Please log into your account to continue</p>
             <form onsubmit="return validateForm(event)">
                 <input type="text" name="phone number" placeholder="phone number"> <br>
-                <input type="text" name="password" class="formcontrol" placeholder="Password"> <br>
+                <input type="password" id="password" name="password" minlength="8" required placeholder="8 characters minimum"/><br>
                 <input type="submit" value="Log in">
+            
 
-                <br>
                 <a href="#">Forgot your password?</a>
             </form>
 
